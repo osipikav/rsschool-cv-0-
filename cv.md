@@ -47,3 +47,13 @@ const personalMovieDB = {
     },
 
 ```
+
+####Work experience:
+Nothing yet…
+
+####Education and courses:
+1. JS basics course Udemi
+2. CSS, HTML  basics courses Yandex
+3. JavaScript https://learn.javascript.ru/
+####Language:
+English  **A2**
